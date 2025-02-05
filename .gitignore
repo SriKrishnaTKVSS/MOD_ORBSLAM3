@@ -67,7 +67,7 @@ Thirdparty/g2o/build/
 Vocabulary/ORBvoc.txt
 build/
 
-lib/
+#lib/
 
 cmake_modules/
 cmake-build-debug/
@@ -83,8 +83,8 @@ TrackingTimeStats.txt
 #Time*
 Table_Euroc
 Table_TUMVI_rooms/
-*.pyc
-*.osa
+#*.pyc
+#*.osa
 .idea/
 my_settings.txt
 
